@@ -1,2 +1,2 @@
 # myFirstRepo
-##Test repository using GIT
+Test repository using GIT
